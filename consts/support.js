@@ -1,0 +1,5 @@
+export const PRIVACY_POLICY_URL = "https://www.iubenda.com/privacy-policy/23075000"
+export const TERMS_AND_CONDITIONS_URL = "https://www.iubenda.com/terms-and-conditions/55169783"
+export const COOKIE_POLICY_URL = "https://www.iubenda.com/privacy-policy/23075000/cookie-policy"
+export const PROVIDER_AGREEMENT_URL = "/termini-professionisti"
+export const DATA_DELETION_REQUEST_URL = "/richiesta-cancellazione-dati"

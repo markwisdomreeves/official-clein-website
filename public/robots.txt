@@ -1,0 +1,18 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://clein.it/sitemap.xml
+
+# Disallow admin or API routes if any
+Disallow: /api/
+Disallow: /_next/
+
+# Allow search engines to index all content
+Allow: /service/
+Allow: /city/
+Allow: /blog/
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1

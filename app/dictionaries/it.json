@@ -1,0 +1,841 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "cities": "Città",
+    "blog": "Blog",
+    "about": "Chi Siamo",
+    "becomeProvider": "Professionisti",
+    "contact": "Contatti",
+    "downloadApp": "Scarica l’app",
+    "whatsappSupport": "Contattaci su WhatsApp",
+    "ourServices": "Servizi offerti",
+    "popularServices": "Servizi più richiesti",
+    "viewAllServices": "Vedi tutti i servizi",
+    "seeAllServices": "Vedi tutti i servizi",
+    "popularCities": "Città principali",
+    "viewAllCities": "Vedi tutte le città",
+    "seeAllCities": "Vedi tutte le città",
+    "backToMenu": "Torna al menu",
+    "servicesCount": "servizi"
+  },
+  "hero": {
+    "trustBadge": "Scelto da oltre 20.000 famiglie",
+    "title": "Trova servizi per la casa premium",
+    "subtitle": "Pulizie, idraulici, elettricisti e molto altro",
+    "features": "Professionisti verificati • Assicurati • Affidabili",
+    "getItOn": "Disponibile su",
+    "googlePlay": "Google Play",
+    "comingSoon": "PROSSIMAMENTE",
+    "appStore": "App Store",
+    "providers": "500+ professionisti",
+    "cities": "40+ Città",
+    "rating": "4.8 Valutazione",
+    "quickDownload": "Scarica veloce e sicuro",
+    "scanCamera": "Scansiona il codice con la fotocamera",
+    "instantDownload": "Scarica subito l’app CLEIN",
+    "trustpilotExcellent": "Eccellente",
+    "readyToExperience": "Pronto a provare CLEIN?",
+    "downloadAppToday": "Scarica l’app CLEIN e prenota il tuo primo servizio oggi stesso",
+    "downloadApp": "Scarica l’app",
+    "bookingConfirmed": "Prenotazione confermata",
+    "cleanerArrives": "Il professionista arriverà alle 10:00",
+    "topRated": "Valutazione eccellente",
+    "cleinApp": "App ufficiale CLEIN",
+    "homeServicesApp": "App per i servizi domestici"
+  },
+  "footer": {
+    "company": "Azienda",
+    "services": "Servizi",
+    "support": "Supporto clienti",
+    "legal": "Informazioni legali",
+    "about": "Chi siamo",
+    "careers": "Lavora con noi",
+    "blog": "Blog",
+    "contact": "Contattaci",
+    "help": "Centro assistenza",
+    "privacy": "Privacy",
+    "terms": "Termini",
+    "cookies": "Cookie",
+    "description": "La piattaforma n.1 in Italia per servizi domestici con fornitori affidabili in oltre 40+ città.",
+    "downloadTitle": "Scarica l’app CLEIN",
+    "downloadSubtitle": "Prenota servizi ovunque ti trovi",
+    "allRightsReserved": "Tutti i diritti riservati.",
+    "copyright": "© 2025 CLEIN di DI MATTIA SERVIZI S.R.L. | P.IVA 02052110679 | PEC: dimattiaservizi@pec.it",
+    "serviceTitles": {
+      "houseCleaning": "Pulizia della Casa",
+      "deepCleaning": "Pulizia Profonda",
+      "moveInMoveOutCleaning": "Pulizia per Traslochi",
+      "officeCleaning": "Pulizia Uffici",
+      "handymanServices": "Servizi di Tuttofare",
+      "electricalServices": "Servizi Elettrici",
+      "plumbingServices": "Servizi Idraulici",
+      "gardeningLawnCare": "Giardinaggio"
+    },
+    "companyLinks": {
+      "howItWorks": "Come Funziona",
+      "becomeProvider": "Diventa Professionista"
+    },
+    "supportLinks": {
+      "providerAgreement": "Accordo Fornitore",
+      "dataPolicy": "Cancellazione Dati"
+    },
+    "popularCities": "Disponibile in",
+    "availableInItaly": "In oltre 40 città italiane"
+  },
+  "common": {
+    "readMore": "Scopri di più",
+    "viewDetails": "Visualizza dettagli",
+    "bookNow": "Prenota ora",
+    "getStarted": "Inizia subito",
+    "loading": "Caricamento in corso...",
+    "error": "Si è verificato un errore",
+    "success": "Operazione completata con successo",
+    "search": "Cerca",
+    "filter": "Filtra",
+    "showAll": "Mostra tutto",
+    "viewAll": "Visualizza tutto"
+  },
+  "serviceCategories": {
+    "title": "Servizi Professionali",
+    "titleHighlight": "per la Casa",
+    "description": "Servizi domestici di qualità forniti da esperti verificati. Prenota tramite l’app CLEIN per una conferma immediata.",
+    "bookingNote": "Tutte le prenotazioni devono essere effettuate tramite l’app mobile CLEIN",
+    "downloadCta": "Scarica l’app per prenotare facilmente"
+  },
+  "howItWorks": {
+    "title": "Come",
+    "titleHighlight": "Funziona CLEIN",
+    "description": "Prenotare servizi domestici professionali non è mai stato così facile. Segui questi semplici passaggi per iniziare.",
+    "steps": {
+      "download": {
+        "title": "Scarica l’app",
+        "description": "Scarica l’app CLEIN e prenota servizi domestici in pochi secondi."
+      },
+      "choose": {
+        "title": "Scegli un servizio",
+        "description": "Sfoglia la nostra gamma di servizi domestici e scegli quello giusto."
+      },
+      "select": {
+        "title": "Scegli Esperti",
+        "description": "Consulta i profili, le valutazioni e le recensioni di professionisti verificati."
+      },
+      "enjoy": {
+        "title": "Valuta il servizio",
+        "description": "Ricevi servizi di qualità a domicilio e lascia una valutazione finale."
+      }
+    },
+    "cta": {
+      "description": "Pronto a provare servizi domestici senza stress?",
+      "button": "Inizia subito"
+    }
+  },
+  "platformBenefits": {
+    "badge": "Perché Affidarsi a CLEIN",
+    "title": "Cosa rende CLEIN unica",
+    "description": "Sperimenta il futuro dei servizi domestici con funzionalità progettate per la tua comodità, sicurezza e tranquillità. Ogni dettaglio è stato realizzato con la massima cura.",
+    "benefits": {
+      "transparentPricing": {
+        "title": "Prezzi Trasparenti",
+        "description": "Prezzo chiaro e trasparente, senza sorprese o commissioni nascoste.",
+        "features": ["Prezzi fissi per servizio", "Nessun costo nascosto", "Garanzia del miglior prezzo sul mercato"]
+      },
+      "localizedServices": {
+        "title": "Servizi Localizzati",
+        "description": "Professionisti in tutte le città italiane con mappa servizi vicini.",
+        "features": ["Disponibilità in tutta Italia", "Ricerca basata sulla posizione", "Servizi specifici per regione"]
+      },
+      "flexibleScheduling": {
+        "title": "Orari Flessibili",
+        "description": "Prenota quando vuoi: 24/7, conferma immediata, riprogrammazione semplice.",
+        "features": ["Prenotazioni in giornata", "Disponibilità 24/7", "Riprogrammazione senza penali"]
+      },
+      "safeVerified": {
+        "title": "Esperti Certificati",
+        "description": "Ogni fornitore è verificato, assicurato e controllato per la sicurezza.",
+        "features": ["Identità verificata", "Controlli sui precedenti", "Fornitori assicurati"]
+      },
+      "multilingualSupport": {
+        "title": "Assistenza Bilingue",
+        "description": "Accedi in italiano e inglese con assistenza clienti localizzata.",
+        "features": ["Lingue multiple", "Supporto locale", "Interfaccia sensibile alla cultura"]
+      },
+      "contactlessPayment": {
+        "title": "Pagamenti sicuri",
+        "description": "Effettua pagamenti sicuri in app, senza usare contanti.",
+        "features": ["Pagamenti digitali sicuri", "Metodi multipli", "Ricevute istantanee"]
+      }
+    },
+    "stats": {
+      "satisfactionGuarantee": "Soddisfazione Garantita",
+      "customerSupport": "Assistenza Clienti 7/7",
+      "servicesCompleted": "Servizi Completati",
+      "bookingFees": "Zero Commissioni"
+    },
+    "trust": {
+      "trustedBy": "Scelto da oltre 20.000 famiglie",
+      "joinCommunity": "Unisciti alla comunità CLEIN e vivi un'esperienza di servizi domestici superiore",
+      "cta": "Prenota Ora con un Click"
+    }
+  },
+  "testimonials": {
+    "title": "Cosa dicono i nostri",
+    "titleHighlight": "clienti",
+    "subtitle": "Unisciti a migliaia di famiglie soddisfatte che scelgono CLEIN per i loro servizi domestici di fiducia.",
+    "customers": [
+      {
+        "name": "Maria Rossi",
+        "location": "Roma",
+        "service": "Pulizie Casa",
+        "comment": "CLEIN ha rivoluzionato la casa: servizio puntuale, pulizia impeccabile."
+      },
+      {
+        "name": "Giuseppe Bianchi",
+        "location": "Milano",
+        "service": "Servizi Elettrici",
+        "comment": "CLEIN ha gestito la nostra emergenza elettrica con prontezza ed esperienza."
+      },
+      {
+        "name": "Francesca Lombardi",
+        "location": "Napoli",
+        "service": "Pulizia Profonda",
+        "comment": "Pulizia eccezionale! Ogni stanza brilla e il personale è impeccabile."
+      },
+      {
+        "name": "Alessandro Conti",
+        "location": "Torino",
+        "service": "Servizi Tuttofare",
+        "comment": "Finalmente una piattaforma seria: il tuttofare CLEIN ha risolto subito."
+      },
+      {
+        "name": "Sofia Marino",
+        "location": "Firenze",
+        "service": "Servizi di Giardinaggio",
+        "comment": "Il mio giardino è rinato! Il giardiniere CLEIN è esperto e professionale."
+      },
+      {
+        "name": "Marco Ferrari",
+        "location": "Bologna",
+        "service": "Pulizie Ufficio",
+        "comment": "Pulizie ufficio perfette. CLEIN è affidabile, rapido e professionale."
+      }
+    ],
+    "stats": {
+      "averageRating": "Media Valutazioni",
+      "happyCustomers": "Clienti Soddisfatti",
+      "satisfactionRate": "Tasso di Soddisfazione"
+    }
+  },
+  "faq": {
+    "title": "Domande",
+    "titleHighlight": "Frequenti",
+    "subtitle": "Scopri le risposte alle domande più frequenti sui servizi professionali CLEIN.",
+    "categories": {
+      "customers": "Per Clienti",
+      "providers": "Per Professionisti"
+    },
+    "customers": [
+      {
+        "question": "Come funziona la piattaforma CLEIN?",
+        "answer": "Basta scaricare l’app CLEIN, scegliere il servizio desiderato, visualizzare i professionisti disponibili e confermare la prenotazione. Tutto avviene in pochi semplici passaggi."
+      },
+      {
+        "question": "I professionisti CLEIN sono verificati?",
+        "answer": "Si, tutti i professionisti su CLEIN sono verificati manualmente e sottoposti a controlli di qualità e affidabilità."
+      },
+      {
+        "question": "Quali servizi offre CLEIN agli utenti?",
+        "answer": "CLEIN offre servizi di pulizia, manutenzione, idraulica, elettricità, giardinaggio, imbiancatura, traslochi e molto altro."
+      },
+      {
+        "question": "Come si paga un servizio su CLEIN?",
+        "answer": "Il pagamento viene elaborato in modo sicuro tramite l'app CLEIN. Accettiamo carte di credito e carte di debito. Puoi anche salvare i tuoi metodi di pagamento per un checkout più veloce."
+      },
+      {
+        "question": "Cosa fare se il servizio delude?",
+        "answer": "In caso di insoddisfazione, puoi segnalare l’intervento tramite l’app. Valuteremo il caso e prenderemo misure."
+      },
+      {
+        "question": "CLEIN è attivo nella mia zona/città?",
+        "answer": "CLEIN opera in tutte le principali città italiane. Esplora la pagina Città CLEIN per scoprire dove sono disponibili i nostri servizi."
+      },
+      {
+        "question": "Posso contattare il fornitore prima?",
+        "answer": "Sì, puoi chattare con il professionista direttamente dall’app per chiarire ogni dettaglio."
+      },
+      {
+        "question": "Posso modificare una prenotazione?",
+        "answer": "Certamente. Puoi modificare o cancellare la prenotazione entro i termini indicati nella politica di cancellazione."
+      },
+      {
+        "question": "Come funzionano le recensioni su CLEIN?",
+        "answer": "Dopo ogni servizio, puoi lasciare una recensione pubblica che aiuta altri clienti a scegliere con fiducia."
+      },
+      {
+        "question": "I prezzi includono tasse e costi extra?",
+        "answer": "Sì, i prezzi sono trasparenti e includono tasse. Nessuna sorpresa al momento del pagamento."
+      }
+    ],
+    "providers": [
+      {
+        "question": "Come registrarsi come provider CLEIN?",
+        "answer": "Scarica l'app CLEIN Pro, completa la registrazione con i dati e i documenti richiesti, supera il nostro processo di verifica entro 48 ore e inizia a ricevere richieste di lavoro. È semplice e sicuro."
+      },
+      {
+        "question": "Quali sono i requisiti per unirsi a CLEIN?",
+        "answer": "Devi avere più di 18 anni, avere competenze o esperienza rilevanti nella tua categoria di servizio, possedere i documenti richiesti (documento d'identità, codice fiscale, eventuali licenze professionali) e mantenere standard di servizio elevati."
+      },
+      {
+        "question": "Quanto posso guadagnare con CLEIN?",
+        "answer": "I guadagni su CLEIN dipendono dai servizi offerti, dalla tua disponibilità e dalla domanda dei clienti. Imposta le tue tariffe secondo le nostre linee guida: molti professionisti guadagnano un reddito competitivo con orari flessibili."
+      },
+      {
+        "question": "Come vengo pagato su CLEIN?",
+        "answer": "I pagamenti vengono trasferiti sul tuo conto bancario o conto PostePay ogni venerdì pomeriggio. Puoi monitorare i tuoi guadagni in tempo reale tramite l’app CLEIN Pro e ricevere rendiconti dettagliati."
+      },
+      {
+        "question": "Devo portare i miei strumenti di lavoro?",
+        "answer": "Sì, tutti i professionisti devono portare con sé gli strumenti e le attrezzature necessari per i servizi offerti. Questo garantisce un servizio di qualità con strumenti che conosci e con cui ti senti a tuo agio."
+      },
+      {
+        "question": "Come gestisco la mia disponibilità?",
+        "answer": "Puoi aggiornare la tua disponibilità in tempo reale direttamente dall’app CLEIN Pro."
+      },
+      {
+        "question": "Come avviene la verifica del profilo?",
+        "answer": "Dopo la registrazione, il team CLEIN verifica documenti, esperienze e reputazione prima di abilitarti."
+      },
+      {
+        "question": "Posso aggiornare tariffe e profilo?",
+        "answer": "Sì, puoi gestire in autonomia il tuo profilo, la disponibilità e i prezzi direttamente dal pannello dell’app CLEIN Pro."
+      },
+      {
+        "question": "Le recensioni influenzano la visibilità?",
+        "answer": "Sì, migliori recensioni aumentano la tua visibilità e affidabilità sulla piattaforma."
+      },
+      {
+        "question": "Posso rifiutare una prenotazione?",
+        "answer": "Sì, puoi rifiutare prenotazioni entro limiti di tempo per evitare penalizzazioni."
+      }
+    ]
+  },
+  "stats": {
+    "title": "CLEIN in",
+    "titleHighlight": "Numeri",
+    "subtitle": "Scelto da migliaia di persone in tutta Italia per servizi domestici affidabili e di alta qualità.",
+    "items": [
+      {
+        "label": "Esperti Verificati",
+        "value": "500+"
+      },
+      {
+        "label": "Servizi Completati",
+        "value": ""
+      },
+      {
+        "label": "Città Attive",
+        "value": "40+"
+      },
+      {
+        "label": "Media Valutazioni",
+        "value": "4.8★"
+      }
+    ]
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "I Nostri Servizi",
+      "subtitle": "Servizi domestici professionali forniti da esperti verificati in tutta Italia",
+      "searchPlaceholder": "Cerca un servizio...",
+      "searchClear": "Cancella ricerca"
+    },
+    "filters": {
+      "title": "Filtra per Categoria",
+      "showingServices": "Mostrando {count} servizi",
+      "categories": {
+        "all": "tutti",
+        "cleaning": "pulizie",
+        "repairs": "riparazioni",
+        "maintenance": "manutenzione"
+      }
+    },
+    "serviceCard": {
+      "duration": "Durata",
+      "category": "Categoria",
+      "learnMore": "Scopri di Più",
+      "categoryLabels": {
+        "cleaning": "Pulizie",
+        "repairs": "Riparazioni",
+        "maintenance": "Manutenzione"
+      }
+    },
+    "emptyState": {
+      "title": "Nessun servizio trovato",
+      "subtitle": "Prova a modificare i tuoi criteri di ricerca o filtro",
+      "clearFilters": "Cancella Filtri"
+    },
+    "cta": {
+      "title": "Pronto a Prenotare un Servizio?",
+      "subtitle": "Scarica l'app CLEIN per il modo più veloce di prenotare e gestire i tuoi servizi domestici",
+      "button": "Scarica l'App CLEIN"
+    }
+  },
+  "about": {
+    "title": "Chi Siamo CLEIN - La Tua Piattaforma di Fiducia per i Servizi Domestici",
+    "description": "Scopri CLEIN, la piattaforma leader in Italia che connette i clienti con professionisti verificati dei servizi domestici. La nostra missione, visione e valori.",
+    "hero": {
+      "title": "Chi Siamo",
+      "subtitle": "Trasformiamo il modo in cui gli italiani prenotano e forniscono servizi domestici attraverso tecnologia, fiducia e comunità."
+    },
+    "mission": {
+      "title": "La Nostra Missione",
+      "content": "Rivoluzionare l'industria dei servizi domestici in Italia creando una piattaforma di fiducia che connette i clienti con professionisti verificati, garantendo qualità, convenienza e trasparenza in ogni interazione."
+    },
+    "vision": {
+      "title": "La Nostra Visione",
+      "content": "Diventare l'ecosistema di servizi domestici più affidabile d'Italia dove ogni famiglia può accedere a professionisti affidabili a portata di mano, e dove i fornitori di servizi possono costruire attività sostenibili e prospere."
+    },
+    "story": {
+      "title": "Perché CLEIN è stata fondata",
+      "intro": "CLEIN è stata fondata per rivoluzionare il settore dei servizi domestici in Italia, stabilendo nuovi standard di fiducia, trasparenza e innovazione digitale. Collaborando con professionisti rigorosamente verificati, garantiamo eccellenza e affidabilità.",
+      
+      "solution": "Grazie a tecnologie mobili avanzate, CLEIN offre prenotazioni rapide e sicure per servizi premium—pulizie, idraulica, elettricità e altro—fornendo assistenza qualificata a livello nazionale. Rendiamo ogni servizio domestico semplice, professionale e senza stress."
+    },
+    "values": {
+      "title": "I Nostri Valori Fondamentali",
+      "items": [
+        {
+          "title": "Sicurezza",
+          "description": "Tutti i fornitori di servizi sono verificati, controllati e assicurati per sicurezza e tranquillità clienti."
+        },
+        {
+          "title": "Fiducia",
+          "description": "Costruiamo una comunità dove clienti e fornitori di servizi crescono, prosperano e raggiungono successo insieme."
+        },
+        {
+          "title": "Innovazione",
+          "description": "Usiamo tecnologia per rendere prenotazioni domestiche semplici, sicure e accessibili ovunque."
+        },
+        {
+          "title": "Garantita",
+          "description": "Manteniamo alti standard di servizio con monitoraggio costante e continuo feedback dei clienti."
+        }
+      ]
+    },
+    "platformBenefits": {
+      "title": "Vantaggi della Piattaforma",
+      "customers": {
+        "title": "Per i Clienti",
+        "benefits": [
+          "Prenotazione istantanea tramite app mobile",
+          "Professionisti verificati e assicurati",
+          "Prezzi trasparenti senza costi nascosti",
+          "Monitoraggio e aggiornamenti in tempo reale",
+          "Opzioni di pagamento sicure",
+          "Assistenza clienti 24/7",
+          "Garanzia di soddisfazione",
+          "Storico servizi e ricevute"
+        ]
+      },
+      "providers": {
+        "title": "Per i Fornitori di Servizi",
+        "benefits": [
+          "Orari di lavoro flessibili",
+          "Accesso a più clienti",
+          "Pagamenti sicuri e puntuali",
+          "Opportunità di sviluppo professionale",
+          "Assistenza dedicata per i fornitori di servizi",
+          "Risoluzione equa delle controversie",
+          "Strumenti per la crescita del business",
+          "Supporto della comunità"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Unisciti alla Comunità CLEIN",
+      "subtitle": "Che tu stia cercando servizi domestici affidabili o voglia far crescere la tua attività di servizi, CLEIN è qui per te.",
+      "customerApp": "Scarica l’app CLEIN",
+      "providerLink": "Diventa un fornitore"
+    }
+  },
+  "mobileAppShowcase": {
+    "badge": "Funzionalità App Mobile",
+    "title": "Servizi di qualità in",
+    "titleHighlight": "un’unica app intelligente",
+    "description": "Vivi il futuro dei servizi domestici con la nostra applicazione mobile ricca di funzionalità. Progettata per la semplicità, costruita per l'affidabilità.",
+    "features": {
+      "instantBooking": {
+        "title": "Servizio Rapido",
+        "description": "Prenota servizi con disponibilità reale"
+      },
+      "verifiedProviders": {
+        "title": "Esperti Verificati",
+        "description": "Tutti i professionisti sono verificati"
+      },
+      "inAppChat": {
+        "title": "Chat Diretta",
+        "description": "Comunica con il tuo fornitore di servizi"
+      },
+      "ratingSystem": {
+        "title": "Rating Servizio",
+        "description": "Leggi recensioni e valuta l’esperienza"
+      },
+      "realTimeTracking": {
+        "title": "Traccia in Diretta",
+        "description": "Segui l'arrivo del tuo provider in tempo reale"
+      },
+      "smartNotifications": {
+        "title": "Notifiche Live",
+        "description": "Ricevi notifiche su offerte e prenotazioni"
+      }
+    },
+    "cta": {
+      "button": "Prova CLEIN Oggi",
+      "subtitle": "Unisciti a 20,000+ utenti • Scarica gratis"
+    }
+  },
+  "appDownload": {
+    "title": "Scarica l’App CLEIN ora",
+    "subtitle": "Unisciti a migliaia di italiani che scelgono CLEIN per servizi domestici affidabili.",
+    "features": [
+      "Servizio Rapido",
+      "Esperti Verificati",
+      "Supporto In-App",
+      "Pagamenti sicuri",
+      "Traccia in Diretta",
+      "Assistenza Clienti 7/7"
+    ],
+    "providerApp": {
+      "question": "Sei un professionista?",
+      "linkText": "Scarica l’app CLEIN Pro →"
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "description": "Siamo qui per aiutarti. Contattaci per qualsiasi domanda, feedback o necessità di supporto.",
+    "hero": {
+      "title": "Contattaci",
+      "subtitle": "Siamo qui per aiutarti. Contattaci per qualsiasi domanda, feedback o necessità di supporto."
+    },
+    "getInTouch": {
+      "title": "Mettiti in Contatto",
+      "description": "Hai domande su CLEIN? Siamo qui per aiutarti 24/7"
+    },
+    "contactMethods": {
+      "email": {
+        "title": "Email",
+        "address": "support@clein.it",
+        "description": "Risponderemo entro 24 ore"
+      },
+      "phone": {
+        "title": "Telefono",
+        "number": "+39 392 349 8466",
+        "hours": "Lun-Ven 9:00-18:00"
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "number": "+39 392 349 8466",
+        "description": "Supporto rapido via WhatsApp"
+      },
+      "serviceAreas": {
+        "title": "Aree di Servizio",
+        "coverage": "Disponibile in oltre 40+ principali città italiane"
+      }
+    },
+    "form": {
+      "title": "Inviaci un Messaggio",
+      "fields": {
+        "fullName": {
+          "label": "Nome Completo",
+          "placeholder": "Il tuo nome completo"
+        },
+        "email": {
+          "label": "Indirizzo Email",
+          "placeholder": "tua.email@esempio.com"
+        },
+        "phone": {
+          "label": "Numero di Telefono",
+          "placeholder": "+39 392 349 8466"
+        },
+        "service": {
+          "label": "Interesse per il Servizio",
+          "placeholder": "Seleziona un servizio",
+          "options": {
+            "houseCleaning": "Pulizie Casa",
+            "officeCleaning": "Pulizie Ufficio",
+            "handymanServices": "Servizi Tuttofare",
+            "electricalServices": "Servizi Elettrici",
+            "plumbingServices": "Servizi Idraulici",
+            "gardeningServices": "Servizi di Giardinaggio",
+            "other": "Altre"
+          }
+        },
+        "message": {
+          "label": "Messaggio",
+          "placeholder": "Raccontaci come possiamo aiutarti..."
+        },
+        "consent": {
+          "text": "Accetto l’uso dei miei dati secondo l’Informativa",
+          "privacyPolicy": "Privacy Policy",
+          "linkText": "di CLEIN"
+        }
+      },
+      "submit": {
+        "button": "Invia Messaggio",
+        "sending": "Invio in corso..."
+      },
+      "messages": {
+        "success": "Grazie per il tuo messaggio! Ti risponderemo entro 24 ore.",
+        "error": "Qualcosa è andato storto. Riprova o contattaci direttamente."
+      }
+    },
+    "map": {
+      "title": "Le Nostre Aree di Servizio",
+      "description": "CLEIN opera nelle principali città d'Italia. Trovaci nella tua zona e scopri i servizi disponibili.",
+      "loading": "Caricamento mappa..."
+    }
+  },
+  "newsletter": {
+    "title": "Rimani Aggiornato con CLEIN",
+    "subtitle": "Ricevi i migliori consigli per la casa e gli aggiornamenti CLEIN direttamente nella tua inbox",
+    "emailPlaceholder": "La tua email",
+    "emailPlaceholderLong": "Inserisci il tuo indirizzo email",
+    "subscribeButton": "Iscriviti",
+    "subscribing": "Iscrizione...",
+    "successTitle": "Iscrizione completata!",
+    "successSubtitle": "Benvenuto nella community CLEIN",
+    "privacyNote": "Rispettiamo la tua privacy. Puoi disiscriverti in qualsiasi momento.",
+    "errors": {
+      "emailRequired": "Inserisci il tuo indirizzo email",
+      "emailInvalid": "Inserisci un indirizzo email valido",
+      "generalError": "Qualcosa è andato storto. Riprova di nuovo."
+    }
+  },
+  "trustedPartners": {
+    "title": "Partner fidati"
+  },
+  "citiesPage": {
+    "hero": {
+      "title": "Disponibili in Tutta Italia",
+      "subtitle": "CLEIN opera in oltre 40 città principali, portando servizi domestici professionali a casa tua",
+      "stats": {
+        "cities": "Oltre 40 città",
+        "providers": "Oltre 500 fornitori",
+        "rating": "4.8 Valutazione"
+      }
+    },
+    "interactiveMap": {
+      "title": "Trova CLEIN nella Tua Città",
+      "searchPlaceholder": "Cerca una città...",
+      "regions": {
+        "northernItaly": "Nord Italia",
+        "centralItaly": "Centro Italia", 
+        "southernItaly": "Sud Italia"
+      },
+      "showAllRegions": "Mostra tutte le regioni",
+      "citiesCount": "città"
+    },
+    "viewMode": {
+      "titles": {
+        "imagemap": "Esplora le Città Visivamente",
+        "grid": "Città per Regione"
+      },
+      "descriptions": {
+        "imagemap": "Scopri le città attraverso immagini evocative",
+        "grid": "Sfoglia le città organizzate per regioni italiane"
+      },
+      "buttons": {
+        "imagemap": "Mappa Immagini",
+        "grid": "Vista Lista"
+      }
+    },
+    "cityCard": {
+      "servicesAvailable": "Servizi disponibili",
+      "exploreServices": "Esplora Servizi"
+    }
+  },
+  "blog": {
+    "title": "Blog CLEIN - Consigli e Guide per la Casa",
+    "description": "Scopri consigli degli esperti, guide pratiche e aggiornamenti CLEIN per sfruttare al meglio i tuoi servizi domestici",
+    "hero": {
+      "title": "Blog",
+      "subtitle": "Consigli degli esperti, guide e aggiornamenti per aiutarti a sfruttare al meglio i tuoi servizi domestici",
+      "searchPlaceholder": "Cerca articoli...",
+      "searchClear": "Cancella ricerca"
+    },
+    "featured": {
+      "title": "Articolo in Evidenza",
+      "readMore": "Leggi di Più"
+    },
+    "categories": {
+      "title": "Categorie",
+      "allPosts": "Tutti gli Articoli"
+    },
+    "filters": {
+      "noResults": "Nessun articolo trovato che corrisponda ai tuoi criteri.",
+      "clearFilters": "Cancella filtri"
+    },
+    "postCard": {
+      "readTime": "tempo di lettura",
+      "read": "Leggi →"
+    },
+    "newsletter": {
+      "title": "Rimani Aggiornato con CLEIN",
+      "subtitle": "Ricevi i migliori consigli per la casa e gli aggiornamenti CLEIN direttamente nella tua inbox",
+      "emailPlaceholder": "Inserisci il tuo indirizzo email",
+      "subscribeButton": "Iscriviti",
+      "subscribing": "Iscrizione...",
+      "successTitle": "Iscrizione completata!",
+      "successSubtitle": "Benvenuto nella community CLEIN",
+      "privacyNote": "Rispettiamo la tua privacy. Puoi disiscriverti in qualsiasi momento.",
+      "errors": {
+        "emailRequired": "Inserisci il tuo indirizzo email",
+        "emailInvalid": "Inserisci un indirizzo email valido",
+        "generalError": "Qualcosa è andato storto. Riprova di nuovo."
+      }
+    },
+    "post": {
+      "backToBlog": "Torna al blog",
+      "shareTitle": "Condividi questo articolo",
+      "relatedPosts": "Articoli correlati",
+      "categories": "Categorie",
+      "authorByline": "Team Contenuti CLEIN",
+      "readTime": "tempo di lettura"
+    }
+  },
+  "becomeProvider": {
+    "hero": {
+      "badge": "Unisciti a oltre 500+ Professionisti",
+      "title": "Trasforma la tua attività",
+      "subtitle": "Entra nella rete di professionisti CLEIN. Guadagna di più, lavora con flessibilità e fai crescere la tua attività con la piattaforma leader in Italia.",
+      "downloadButton": {
+        "text": "Scarica Ora",
+        "app": "App Fornitore"
+      },
+      "learnMore": "Scopri di Più"
+    },
+    "benefits": {
+      "title": "Perché i Professionisti Scelgono CLEIN",
+      "subtitle": "Unisciti a centinaia di professionisti che stanno costruendo attività di successo con CLEIN",
+      "items": {
+        "earnMore": {
+          "title": "Guadagna di Più",
+          "description": "Stabilisci le tue tariffe e tieni l'85% dei guadagni. Nessuna commissione nascosta.",
+          "value": "€1900+",
+          "label": "Guadagno medio mensile"
+        },
+        "flexibleSchedule": {
+          "title": "Orari Flessibili",
+          "description": "Lavora quando vuoi. Accetta i lavori che si adattano ai tuoi orari.",
+          "value": "Tu Decidi",
+          "label": "I tuoi orari di lavoro"
+        },
+        "moreCustomers": {
+          "title": "Più Clienti",
+          "description": "Accedi a migliaia di clienti che cercano attivamente servizi professionali.",
+          "value": "20,000+",
+          "label": "Clienti attivi"
+        },
+        "fastPayment": {
+          "title": "Pagamenti Rapidi",
+          "description": "Ricevi i tuoi guadagni entro 48 ore dal completamento di un lavoro",
+          "value": "48h",
+          "label": "Accredito medio dopo il completamento del lavoro"
+        },
+        "growBusiness": {
+          "title": "Crescita Attività",
+          "description": "Costruisci la tua reputazione con le valutazioni ed espandi la tua base clienti.",
+          "value": "4.8★",
+          "label": "Valutazione media provider"
+        },
+        "support247": {
+          "title": "Supporto 24/7",
+          "description": "Il nostro team dedicato è sempre qui per aiutarti a raggiungere il successo.",
+          "value": "24/7",
+          "label": "Disponibilità supporto"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Storie di Successo dei Nostri Professionisti",
+      "subtitle": "Veri professionisti condividono il loro percorso con CLEIN",
+      "providers": [
+        {
+          "name": "Marco Bianchi",
+          "service": "Tuttofare",
+          "location": "Milano",
+          "quote": "CLEIN ha cambiato la mia vita. Sono passato dal faticare a trovare clienti ad avere un'agenda piena. La flessibilità è incredibile!",
+          "earnings": "€1660/mese"
+        },
+        {
+          "name": "Sofia Martini",
+          "service": "Addetta alle Pulizie",
+          "location": "Roma",
+          "quote": "Come madre single, gli orari flessibili sono perfetti. Lavoro mentre i miei figli sono a scuola e guadagno ottimi soldi.",
+          "earnings": "€1450/mese"
+        },
+        {
+          "name": "Luigi Conti",
+          "service": "Elettricista",
+          "location": "Napoli",
+          "quote": "L'app mi porta clienti di qualità che apprezzano il lavoro professionale. La mia attività è cresciuta del 300% da quando mi sono iscritto.",
+          "earnings": "€1375/mese"
+        }
+      ],
+      "earningLabel": "Guadagno"
+    },
+    "howItWorks": {
+      "title": "Inizia a Guadagnare in 4 Semplici Passi",
+      "subtitle": "Unisciti a CLEIN oggi e inizia a ricevere richieste di lavoro entro 48 ore",
+      "steps": {
+        "download": {
+          "number": "01",
+          "title": "Scarica l'App",
+          "description": "Scarica l’app Clein Pro da Play Store e App Store"
+        },
+        "register": {
+          "number": "02",
+          "title": "Registrati",
+          "description": "Inserisci i tuoi dati e carica i documenti richiesti"
+        },
+        "verification": {
+          "number": "03",
+          "title": "Supera la Verifica",
+          "description": "Verifica e approvazione competenze rapide"
+        },
+        "startEarning": {
+          "number": "04",
+          "title": "Inizia a Guadagnare",
+          "description": "Ottieni lavori, costruisci la tua attività"
+        }
+      }
+    },
+    "requirements": {
+      "title": "Requisiti per Iscriversi",
+      "subtitle": "Manteniamo standard elevati per garantire un servizio di qualità ai nostri clienti",
+      "items": [
+        "Avere almeno 18 anni ed essere in possesso di un documento d’identità valido.",
+        "Possiedi competenze, certificazioni o esperienza comprovata nel tuo settore di servizio.",
+        "Possiedi un Codice Fiscale valido? Unisciti a CLEIN per €4,99/mese in Italia.",
+        "Possedere e mantenere un’assicurazione di responsabilità professionale valida",
+        "Possedere uno smartphone con connessione internet stabile per la gestione dei lavori.",
+        "Capacità di comunicare in modo chiaro e professionale con i clienti.",
+        "Dimostrare affidabilità, puntualità e impegno nel completamento dei servizi.",
+        "Rispettare tutte le norme di sicurezza, leggi e standard di qualità del servizio.",
+        "Essere disponibili a sottoporsi a controlli e procedure di verifica.",
+        "Mostra dedizione offrendo un servizio eccellente e mantenendo una reputazione positiva."
+      ],
+      "insuranceNote": {
+        "title": "Entra a far parte di CLEIN oggi stesso!",
+        "subtitle": "Con soli €4,99 al mese avrai accesso esclusivo al tuo dashboard sull’app Clein Pro e potrai sfruttare opportunità illimitate di lavoro nei servizi domestici in tutta Italia."
+      }
+    },
+    "cta": {
+      "title": "Pronto a Trasformare la Tua Carriera?",
+      "subtitle": "Unisciti a CLEIN oggi e inizia a costruire l'attività che hai sempre sognato",
+      "downloadApp": "Scarica l’app per fornitori",
+      "contactTeam": "Contatta il Nostro Team",
+      "features": "Tempo medio di approvazione: 48 ore • Nessuna commissione di registrazione • Annulla in qualsiasi momento"
+    }
+  }
+}

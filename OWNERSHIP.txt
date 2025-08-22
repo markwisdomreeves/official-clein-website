@@ -1,0 +1,11 @@
+
+CLEIN di Di Mattia Servizi – Proprietà del Codice Sorgente
+
+Questa applicazione Laravel e tutti i file associati sono proprietà intellettuale esclusiva di:
+CLEIN di Di Mattia Servizi © 2025  
+Tutti i diritti riservati.
+
+Questo codice sorgente è stato legalmente acquisito e personalizzato per uso interno.  
+Qualsiasi riproduzione, modifica o utilizzo non autorizzato è severamente vietato.
+
+Per informazioni legali o richieste di licenza, contattare: legal@clein.it

@@ -1,0 +1,18 @@
+export const FACEBOOK_URL = "https://www.facebook.com/cleinhomeservice"
+export const INSTAGRAM_URL = "https://www.instagram.com/cleinhomeservice/"
+export const LINKEDIN_URL = "https://www.linkedin.com/company/cleinhomeservice"
+export const WHATSAPP_URL = "https://wa.me/393923498466"
+export const EMAIL_URL = "mailto:info@clein.it"
+export const EMAIL_URL_PROVIDER = "mailto:provider@clein.it"
+export const EMAIL_URL_CLIENT = "mailto:client@clein.it"
+export const EMAIL = "info@clein.it"
+export const EMAIL_PROVIDER = "provider@clein.it"
+export const EMAIL_CLIENT = "client@clein.it"
+export const PHONE_URL = "tel:+39 392 349 8466"
+export const PHONE = "+39 392 349 8466"
+export const ADDRESS = "Via Don Lorenzo Milani 50, 64100 Teramo TE, Italia"
+export const CLEIN_CUSTOMER_APP_URL = "https://play.google.com/store/apps/details?id=com.clein.homeservices&hl=it&gl=IT"
+export const CLEIN_PRO_APP_URL = "https://play.google.com/store/apps/details?id=com.clein.professionals&hl=it&gl=IT"
+export const IOS_URL = "https://apps.apple.com/it/app/clein-servizi-a-domicilio/id6743106855"
+
+

@@ -1,0 +1,357 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "cities": "Cities",
+    "blog": "Blog",
+    "about": "About",
+    "becomeProvider": "Become a Provider",
+    "contact": "Contact",
+    "downloadApp": "Download App",
+    "whatsappSupport": "WhatsApp Support",
+    "ourServices": "Our Services",
+    "popularServices": "Popular Services",
+    "viewAllServices": "View All Services",
+    "seeAllServices": "See All Services",
+    "popularCities": "Popular Cities",
+    "viewAllCities": "View All Cities",
+    "seeAllCities": "See All Cities",
+    "backToMenu": "Back to Menu",
+    "servicesCount": "services"
+  },
+  "hero": {
+    "trustBadge": "Trusted by 20,000+ Italian families",
+    "title": "Book Trusted",
+    "titleHighlight": "Home Services",
+    "titleEnd": "in Italy",
+    "subtitle": "Professional cleaners, handymen, electricians and more.",
+    "features": "Verified • Insured • Reliable",
+    "getItOn": "GET IT ON",
+    "googlePlay": "Google Play",
+    "comingSoon": "COMING SOON",
+    "appStore": "App Store",
+    "providers": "500+ Providers",
+    "cities": "20+ Cities",
+    "rating": "4.8 Rating",
+    "quickDownload": "Quick Download",
+    "scanCamera": "Scan with camera",
+    "instantDownload": "Instant app download",
+    "trustpilotExcellent": "Excellent 4.8/5",
+    "readyToExperience": "Ready to Experience CLEIN?",
+    "downloadAppToday": "Download our app and book your first service today",
+    "downloadApp": "Download App",
+    "bookingConfirmed": "Booking Confirmed",
+    "cleanerArrives": "Cleaner arrives at 10 AM",
+    "topRated": "Top Rated",
+    "cleinApp": "CLEIN App",
+    "homeServicesApp": "Home Services App"
+  },
+  "footer": {
+    "company": "Company",
+    "services": "Services",
+    "support": "Support",
+    "legal": "Legal",
+    "about": "About CLEIN",
+    "careers": "Careers",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "help": "Help Center",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "description": "Italy's leading platform for professional home services. Connecting families with trusted, verified service providers across 20+ cities.",
+    "downloadTitle": "Download CLEIN",
+    "downloadSubtitle": "Book services on the go",
+    "allRightsReserved": "All rights reserved.",
+    "copyright": "© {year} CLEIN di DI MATTIA SERVIZI | Made with ❤️ in Italy",
+    "serviceTitles": {
+      "houseCleaning": "House Cleaning",
+      "officeCleaning": "Office Cleaning",
+      "handymanServices": "Handyman Services",
+      "electricalServices": "Electrical Services",
+      "plumbingServices": "Plumbing Services"
+    },
+    "companyLinks": {
+      "howItWorks": "How It Works",
+      "becomeProvider": "Become Provider"
+    },
+    "supportLinks": {
+      "providerAgreement": "Provider Agreement",
+      "dataPolicy": "Data Policy"
+    },
+    "popularCities": "Popular Cities",
+    "availableInItaly": "Available in major cities across Italy"
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewDetails": "View Details",
+    "bookNow": "Book Now",
+    "getStarted": "Get Started",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "search": "Search",
+    "filter": "Filter",
+    "showAll": "Show All",
+    "viewAll": "View All"
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "Professional home services delivered by verified experts across Italy",
+      "searchPlaceholder": "Search for a service...",
+      "searchClear": "Clear search"
+    },
+    "filters": {
+      "title": "Filter by Category",
+      "showingServices": "Showing {count} services",
+      "categories": {
+        "all": "All Services",
+        "cleaning": "Cleaning",
+        "repairs": "Repairs",
+        "maintenance": "Maintenance"
+      }
+    },
+    "serviceCard": {
+      "duration": "Duration",
+      "category": "Category",
+      "learnMore": "Learn More",
+      "categoryLabels": {
+        "cleaning": "Cleaning",
+        "repairs": "Repairs",
+        "maintenance": "Maintenance"
+      }
+    },
+    "emptyState": {
+      "title": "No services found",
+      "subtitle": "Try adjusting your search or filter criteria",
+      "clearFilters": "Clear Filters"
+    },
+    "cta": {
+      "title": "Ready to Book a Service?",
+      "subtitle": "Download the CLEIN app for the fastest way to book and manage your home services",
+      "button": "Download CLEIN App"
+    }
+  },
+  "citiesPage": {
+    "hero": {
+      "title": "Available Across Italy",
+      "subtitle": "CLEIN operates in 20+ major cities, bringing professional home services to your doorstep",
+      "stats": {
+        "cities": "20+ Cities",
+        "providers": "500+ Providers",
+        "rating": "4.8 Rating"
+      }
+    },
+    "interactiveMap": {
+      "title": "Find CLEIN in Your City",
+      "searchPlaceholder": "Search for a city...",
+      "regions": {
+        "northernItaly": "Northern Italy",
+        "centralItaly": "Central Italy",
+        "southernItaly": "Southern Italy"
+      },
+      "showAllRegions": "Show all regions",
+      "citiesCount": "cities"
+    },
+    "viewMode": {
+      "titles": {
+        "imagemap": "Visual City Explorer",
+        "grid": "Cities by Region"
+      },
+      "descriptions": {
+        "imagemap": "Discover cities through beautiful imagery",
+        "grid": "Browse cities organized by Italian regions"
+      },
+      "buttons": {
+        "imagemap": "Image Map",
+        "grid": "List View"
+      }
+    },
+    "cityCard": {
+      "servicesAvailable": "services available",
+      "exploreServices": "Explore Services"
+    }
+  },
+  "blog": {
+    "title": "CLEIN Blog - Home Service Tips and Guides",
+    "description": "Discover expert tips, practical guides, and CLEIN updates to help you make the most of your home services",
+    "hero": {
+      "title": "Blog",
+      "subtitle": "Expert tips, guides, and updates to help you make the most of your home services",
+      "searchPlaceholder": "Search articles...",
+      "searchClear": "Clear search"
+    },
+    "featured": {
+      "title": "Featured Article",
+      "readMore": "Read More"
+    },
+    "categories": {
+      "title": "Categories",
+      "allPosts": "All Posts"
+    },
+    "filters": {
+      "noResults": "No articles found matching your criteria.",
+      "clearFilters": "Clear filters"
+    },
+    "postCard": {
+      "readTime": "read time",
+      "read": "Read →"
+    },
+    "newsletter": {
+      "title": "Stay Updated with CLEIN",
+      "subtitle": "Get the latest home service tips and CLEIN updates delivered to your inbox",
+      "emailPlaceholder": "Enter your email address",
+      "subscribeButton": "Subscribe",
+      "subscribing": "Subscribing...",
+      "successTitle": "Successfully subscribed!",
+      "successSubtitle": "Welcome to the CLEIN community",
+      "privacyNote": "We respect your privacy. Unsubscribe at any time.",
+      "errors": {
+        "emailRequired": "Please enter your email address",
+        "emailInvalid": "Please enter a valid email address",
+        "generalError": "Something went wrong. Please try again."
+      }
+    },
+    "post": {
+      "backToBlog": "Back to Blog",
+      "shareTitle": "Share this article",
+      "relatedPosts": "Related Articles",
+      "categories": "Categories",
+      "authorByline": "CLEIN Content Team",
+      "readTime": "read time"
+    }
+  },
+  "becomeProvider": {
+    "hero": {
+      "badge": "Join 500+ Service Providers",
+      "title": "Turn Your Skills Into",
+      "titleHighlight": "A Thriving Business",
+      "subtitle": "Join CLEIN's network of professional service providers. Earn more, work flexibly, and grow your business with Italy's leading platform.",
+      "downloadButton": {
+        "text": "DOWNLOAD NOW",
+        "app": "Provider App"
+      },
+      "learnMore": "Learn More"
+    },
+    "benefits": {
+      "title": "Why Providers Choose CLEIN",
+      "subtitle": "Join hundreds of professionals who are building successful businesses with CLEIN",
+      "items": {
+        "earnMore": {
+          "title": "Earn More",
+          "description": "Set your own rates and keep 85% of your earnings. No hidden fees.",
+          "value": "€2,500+",
+          "label": "Average monthly earnings"
+        },
+        "flexibleSchedule": {
+          "title": "Flexible Schedule",
+          "description": "Work when you want. Accept jobs that fit your schedule.",
+          "value": "You Choose",
+          "label": "Your working hours"
+        },
+        "moreCustomers": {
+          "title": "More Customers",
+          "description": "Access thousands of customers actively looking for services.",
+          "value": "10,000+",
+          "label": "Active customers"
+        },
+        "insuranceCoverage": {
+          "title": "Insurance Coverage",
+          "description": "Work with confidence. We provide liability insurance for all jobs.",
+          "value": "100%",
+          "label": "Coverage on all jobs"
+        },
+        "growBusiness": {
+          "title": "Grow Your Business",
+          "description": "Build your reputation with ratings and expand your client base.",
+          "value": "4.8★",
+          "label": "Average provider rating"
+        },
+        "support247": {
+          "title": "24/7 Support",
+          "description": "Our dedicated team is always here to help you succeed.",
+          "value": "24/7",
+          "label": "Support availability"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Success Stories from Our Providers",
+      "subtitle": "Real providers sharing their journey with CLEIN",
+      "providers": [
+        {
+          "name": "Marco Bianchi",
+          "service": "Handyman",
+          "location": "Milan",
+          "quote": "CLEIN changed my life. I went from struggling to find clients to having a full schedule. The flexibility is amazing!",
+          "earnings": "€3,200/month"
+        },
+        {
+          "name": "Sofia Martini",
+          "service": "House Cleaner",
+          "location": "Rome",
+          "quote": "As a single mother, the flexible hours are perfect. I work while my kids are at school and earn great money.",
+          "earnings": "€2,800/month"
+        },
+        {
+          "name": "Luigi Conti",
+          "service": "Electrician",
+          "location": "Naples",
+          "quote": "The app brings me quality clients who value professional work. My business has grown 300% since joining.",
+          "earnings": "€4,500/month"
+        }
+      ],
+      "earningLabel": "Earning"
+    },
+    "howItWorks": {
+      "title": "Start Earning in 4 Simple Steps",
+      "subtitle": "Join CLEIN today and start receiving job requests within 48 hours",
+      "steps": {
+        "download": {
+          "number": "01",
+          "title": "Download the App",
+          "description": "Get the CLEIN Provider app from Google Play Store"
+        },
+        "register": {
+          "number": "02",
+          "title": "Complete Registration",
+          "description": "Fill in your details and upload required documents"
+        },
+        "verification": {
+          "number": "03",
+          "title": "Pass Verification",
+          "description": "Background check and skill assessment (48 hours)"
+        },
+        "startEarning": {
+          "number": "04",
+          "title": "Start Earning",
+          "description": "Receive job requests and start building your business"
+        }
+      }
+    },
+    "requirements": {
+      "title": "Requirements to Join",
+      "subtitle": "We maintain high standards to ensure quality service for our customers",
+      "items": [
+        "18+ years old with valid ID",
+        "Relevant skills or experience",
+        "Italian tax code (Codice Fiscale)",
+        "Professional liability insurance (we can help)",
+        "Smartphone with internet connection",
+        "Commitment to quality service"
+      ],
+      "insuranceNote": {
+        "title": "Don't have professional insurance?",
+        "subtitle": "No problem! We can help you get insured quickly and affordably."
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Career?",
+      "subtitle": "Join CLEIN today and start building the business you've always dreamed of",
+      "downloadApp": "Download Provider App",
+      "contactTeam": "Contact Our Team",
+      "features": "Average approval time: 48 hours • No registration fees • Cancel anytime"
+    }
+  }
+}

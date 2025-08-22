@@ -1,0 +1,61 @@
+{
+  "name": "CLEIN - Servizi Domestici",
+  "short_name": "CLEIN",
+  "description": "La piattaforma leader in Italia per servizi domestici professionali. Prenota addetti alle pulizie, tuttofare, elettricisti e molto altro.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0057B8",
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/seo/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/seo/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/seo/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["lifestyle", "utilities"],
+  "lang": "it",
+  "scope": "/",
+  "id": "/?source=pwa",
+  "shortcuts": [
+    {
+      "name": "Prenota Servizio",
+      "short_name": "Prenota",
+      "description": "Prenota velocemente un servizio domestico",
+      "url": "/it/services",
+      "icons": [
+        {
+          "src": "/seo/android-chrome-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Trova Città",
+      "short_name": "Città",
+      "description": "Trova servizi nella tua città",
+      "url": "/it/cities",
+      "icons": [
+        {
+          "src": "/seo/android-chrome-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
