@@ -1,8 +1,9 @@
 import { services } from "@/data/services";
 import { cities } from "@/data/cities";
 
+
 export default function sitemap() {
-  const baseUrl = "https://clein.it";
+  const baseUrl = "https://www.clein.it";
   
   // Static pages
   const staticPages = [
@@ -13,7 +14,7 @@ export default function sitemap() {
       priority: 1,
     },
     {
-      url: `${baseUrl}/chi-e-clein`,
+      url: `${baseUrl}/chi-siamo`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,
@@ -37,7 +38,7 @@ export default function sitemap() {
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/termini-professionisti`,
+      url: `${baseUrl}/accordo-fornitore`,
       lastModified: new Date(),
       changeFrequency: "yearly",
       priority: 0.3,
